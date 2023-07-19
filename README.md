@@ -1,7 +1,10 @@
 
 # Weather App
 
-A weather application built with React and CSS, using the OpenWeather API to fetch weather data. This app allows users to retrieve weather information for a specific city or their current location.
+A weather application built with React and CSS, using the OpenWeather API to fetch weather data. This app allows users to retrieve weather information for a specific city or their current location. 
+
+### Deploy link:
+https://weatherappbgaurav.netlify.app/
 
 # Getting Started
 To run the app locally, follow these steps:
